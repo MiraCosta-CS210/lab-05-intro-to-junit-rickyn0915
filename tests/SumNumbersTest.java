@@ -13,7 +13,6 @@ public class SumNumbersTest {
         int actualResult = sumCalculator.sumIsEven(a, b);
 
         assertEquals(result, actualResult);
-
     }
 
 
